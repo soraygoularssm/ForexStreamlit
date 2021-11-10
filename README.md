@@ -7,4 +7,4 @@ and also analyzes the latest candle
 a tour in the code will help you achive more knowledge 
 
 ## run
-streamlit run <file name>
+streamlit run "file name"
